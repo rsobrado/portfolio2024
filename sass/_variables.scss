@@ -1,0 +1,52 @@
+/* Device = Most of the Smartphones Mobiles (Portrait) */
+$screen-xxs-min: 320px;
+$screen-xxs-max: 480px;
+
+/* Device = Low Resolution Tablets, Mobiles (Landscape) */
+$screen-xs-min: 481px;
+$screen-xs-max: 767px;
+
+/* Device = Tablets, Ipads (portrait) */
+$screen-sm-min: 768px;
+$screen-sm-max: 1024px;
+
+/* Device = Laptops, Desktops */
+$screen-md-min: 1025px;
+$screen-md-max: 1280px;
+
+/* Device = Desktops */
+$screen-lg-min: 1281px;
+$screen-lg-max: 1440px;
+
+/* Higher Resolution Screens */
+$screen-xlg-min: 1441px;
+$screen-xlg-max: 2560px;
+
+// $font-family-playfair: 'Playfair Display', serif;
+
+$font-weight-thin:          100;
+$font-weight-exlight:       200;
+$font-weight-light:         300;
+$font-weight-regular:       400;
+$font-weight-medium:        500;
+$font-weight-semibold:      600;
+$font-weight-bold:          700;
+$font-weight-exbold:        800;
+$font-weight-black:         900;
+
+// colors
+$gray-prymary:      #F0F1F4;
+$gray-gradient:     -webkit-linear-gradient(top,  #ffffff 0%,#ebebeb 100%);
+$blue-primary :     #0c3245;
+
+$gmail:             #0077B5;
+$linkedin:          #25D366;
+$whatsapp:          #D44638;
+
+
+$color-main:        greenyellow;
+$color-secondary:   darkturquoise;
+
+$watch-width: 185px;
+$watch-height: 220px;
+$watch-frame: 10px;
